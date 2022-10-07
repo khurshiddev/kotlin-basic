@@ -1,3 +1,5 @@
+package Constraining_Visibility
+
 private var index = 0
 
 private class Animals(var name: String)

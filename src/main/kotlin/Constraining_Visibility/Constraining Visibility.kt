@@ -1,4 +1,4 @@
-
+package Constraining_Visibility
 class Cookie (private var isReady: Boolean){
     private fun crumble() =
         println("crumble")
