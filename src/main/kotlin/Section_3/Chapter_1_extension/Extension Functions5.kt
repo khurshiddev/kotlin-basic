@@ -1,4 +1,4 @@
-package Section_3.Extension_October_11
+package Section_3.Chapter_1_extension
 
 fun main() {
     var car = Car("Genesis")
