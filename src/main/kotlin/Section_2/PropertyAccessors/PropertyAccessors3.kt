@@ -1,6 +1,6 @@
 package Section_2.PropertyAccessors
 
-import Packages.atomictest.eq
+import atomictest.*
 
 class Hamster(val name: String)
 class Cage(private val maxCapacity: Int) {

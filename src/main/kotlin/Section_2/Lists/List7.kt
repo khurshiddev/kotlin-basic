@@ -1,6 +1,6 @@
 package Section_2.Lists
 
-import Packages.atomictest.eq
+import atomictest.*
 
 fun getList(): List<Int> {
     return mutableListOf(1, 2, 3)

@@ -1,6 +1,6 @@
 package Section_2.varargs
 
-import Packages.atomictest.eq
+import atomictest.*
 
 fun evaluate(vararg ints: Int) =
     "Size: ${ints.size}\n" +

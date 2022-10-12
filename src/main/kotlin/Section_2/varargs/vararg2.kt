@@ -1,6 +1,6 @@
 package Section_2.varargs
 
-import Packages.atomictest.eq
+import atomictest.*
 
 fun sum(vararg numbers: Int): Int {
     var total = 0

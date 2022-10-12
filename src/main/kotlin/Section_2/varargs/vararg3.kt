@@ -1,7 +1,7 @@
 package Section_2.varargs
 
 
-import Packages.atomictest.eq
+import atomictest.*
 fun main() {
     val array = intArrayOf(4, 5)
     sum(1, 2, 3, *array, 6) eq 21 // [1]

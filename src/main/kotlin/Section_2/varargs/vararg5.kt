@@ -1,6 +1,6 @@
 package Section_2.varargs
 
-import Packages.atomictest.eq
+import atomictest.*
 fun first(vararg numbers: Int): String {
     var result = ""
     for (i in numbers) {

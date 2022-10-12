@@ -1,6 +1,6 @@
 package Section_2.Lists
 
-import Packages.atomictest.eq
+import atomictest.*
 
 fun inferred(p:Char, q:Char)=
     listOf(p,q)

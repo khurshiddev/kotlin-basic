@@ -1,6 +1,8 @@
 package Section_2.Exceptions
 
-import Packages.atomictest.*
+import atomictest.capture
+import atomictest.eq
+
 
 fun avarageIncome(income:Int,months: Int ) =
     income / months

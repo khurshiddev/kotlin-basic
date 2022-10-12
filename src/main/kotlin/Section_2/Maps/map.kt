@@ -1,5 +1,5 @@
 package Section_2.Maps
-import Packages.atomictest.eq
+import atomictest.*
 fun main() {
     val m =
         mutableMapOf(5 to "five", 6 to "six")

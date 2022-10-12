@@ -1,4 +1,4 @@
-import Packages.atomictest.*
+import atomictest.*
 
 fun main() {
     trace("line 1")

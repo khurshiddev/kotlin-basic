@@ -1,6 +1,6 @@
 package Section_2.Lists
 
-import Packages.atomictest.eq
+import atomictest.*
 
 fun main() {
     val doubles =

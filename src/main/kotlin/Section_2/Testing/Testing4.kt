@@ -1,4 +1,4 @@
-import Packages.atomictest.eq
+import atomictest.*
 
 fun main () {
 

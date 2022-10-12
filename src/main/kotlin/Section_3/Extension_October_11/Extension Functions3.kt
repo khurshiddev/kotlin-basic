@@ -1,6 +1,6 @@
 package October_11
 
-import Packages.atomictest.eq
+import atomictest.*
 
 fun String.stringQuote()=
     this.singleQuote().singleQuote()

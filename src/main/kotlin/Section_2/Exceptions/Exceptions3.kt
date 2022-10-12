@@ -1,6 +1,7 @@
 package Section_2.Exceptions
 
-import Packages.atomictest.eq
+
+import atomictest.eq
 
 fun main () {
     "1$".toIntOrNull() eq null

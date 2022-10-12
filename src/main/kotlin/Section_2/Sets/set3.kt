@@ -1,6 +1,6 @@
 package Section_2.Sets
 
-import Packages.atomictest.eq
+import atomictest.*
 
 fun main() {
     val mutset = mutableSetOf<Int>()

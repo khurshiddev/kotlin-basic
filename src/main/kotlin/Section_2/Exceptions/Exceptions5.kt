@@ -1,6 +1,6 @@
 package Section_2.Exceptions
 
-import Packages.atomictest.eq
+import atomictest.*
 
 fun averageIncome1(income: Int, months: Int) =
     if (months == 0)

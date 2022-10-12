@@ -1,6 +1,6 @@
 package Section_2.Sets
 
-import Packages.atomictest.eq
+import atomictest.*
 
 fun main() {
     val intSet = setOf(1, 1, 2, 3, 9, 9, 4)

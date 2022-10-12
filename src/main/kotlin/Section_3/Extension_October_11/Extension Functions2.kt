@@ -1,6 +1,6 @@
 package October_11
 
-import Packages.atomictest.eq
+import atomictest.*
 import October_11.singleQuote
 import October_11.doubleQuote
 

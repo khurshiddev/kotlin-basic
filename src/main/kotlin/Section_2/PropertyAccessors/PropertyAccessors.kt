@@ -1,6 +1,6 @@
 package Section_2.PropertyAccessors
 
-import Packages.atomictest.trace
+import atomictest.*
 
 class Default {
     var i: Int = 0

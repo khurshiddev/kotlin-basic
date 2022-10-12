@@ -1,6 +1,6 @@
 package Section_2.Maps
 
-import Packages.atomictest.eq
+import atomictest.*
 
 class Data (var i:Int)
 fun main () {
