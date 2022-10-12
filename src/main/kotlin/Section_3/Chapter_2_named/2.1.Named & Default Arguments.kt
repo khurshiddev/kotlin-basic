@@ -1,4 +1,4 @@
-package Section_3.`Chapter 2`
+package Section_3.Chapter_2_named
 
 
 import atomictest.eq
